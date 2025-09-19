@@ -1,2 +1,0 @@
-# privat
-web
